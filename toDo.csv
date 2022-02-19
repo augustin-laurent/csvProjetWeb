@@ -1,16 +1,16 @@
-"""group""";"""replyNumber""";"""replyPercent""";"""groupWeight""";"""insertionNumber""";"""percentJobGroup""";"""percentStableJob""";"""percentJobFulltime""";"""medianSalaryFulltime""";"""salaryAnnualEstimate""";"""percentGraduateFellows""";"""unployementRegionalPercent""";"""regionalMedianSalary""";"""womanPercent""";"""monthlySalaryFirstQuartile""";"""monthlySalaryThirdQuartile"""
-"""Ensemble sciences humaines et sociales""";27;82;3;88;99;99;21;2100;34500;24;9.3;1810;32;1410;2170
-"""Information communication""";27;82;3;98;98;87;87;1900;31000;24;9.3;1810;67;1410;2170
-"""Informatique""";38;54;7;97;100;97;100;2270;35400;24;9.3;1810;36;1410;2170
-"""Ensemble formations juridiques, économiques et de gestion""";742;86;89;92;90;86;98;2150;33500;24;9.3;1810;58;1410;2170
-Économie;94;87;11;92;96;79;99;2480;38600;24;9.3;1810;48;1410;2170
-"""Gestion""";421;85;51;90;89;89;99;2160;33700;24;9.3;1810;56;1410;2170
-"""Autres formations juridiques, économiques et de gestion""";9;87;1;96;90;76;99;2560;32400;24;9.3;1810;39;1410;2170
-"""Droit""";218;88;26;94;92;83;98;2000;31200;24;9.3;1810;69;1410;2170
-"""Gestion""";421;85;51;92;90;77;99;2000;31200;24;9.3;1810;56;1410;2170
-"""Ensemble sciences, technologies et santé""";38;54;7;100;100;97;100;2160;33700;24;9.3;1810;36;1410;2170
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;
+"""group""";"""Université""";"""replyNumber""";"""replyPercent""";"""groupWeight""";"""insertionNumber""";"""percentJobGroup""";"""percentStableJob""";"""percentJobFulltime""";"""medianSalaryFulltime""";"""salaryAnnualEstimate""";"""percentGraduateFellows""";"""unployementRegionalPercent""";"""regionalMedianSalary""";"""womanPercent""";"""monthlySalaryFirstQuartile""";"""monthlySalaryThirdQuartile"""
+"""Ensemble sciences humaines et sociales""";"""Capitole""";27,00;82,00;3,00;88,00;99,00;99,00;21,00;2100,00;34500,00;24,00;9.3;1810,00;32,00;1410,00;2170,00
+"""Information communication""";"""Capitole""";27,00;82,00;3,00;98,00;98,00;87,00;87,00;1900,00;31000,00;24,00;9.3;1810,00;67,00;1410,00;2170,00
+"""Informatique""";"""Capitole""";38,00;54,00;7,00;97,00;100,00;97,00;100,00;2270,00;35400,00;24,00;9.3;1810,00;36,00;1410,00;2170,00
+"""Ensemble formations juridiques, économiques et de gestion""";"""Capitole""";742,00;86,00;89,00;92,00;90,00;86,00;98,00;2150,00;33500,00;24,00;9.3;1810,00;58,00;1410,00;2170,00
+"""Économie""";"""Capitole""";94,00;87,00;11,00;92,00;96,00;79,00;99,00;2480,00;38600,00;24,00;9.3;1810,00;48,00;1410,00;2170,00
+"""Gestion""";"""Capitole""";421,00;85,00;51,00;90,00;89,00;89,00;99,00;2160,00;33700,00;24,00;9.3;1810,00;56,00;1410,00;2170,00
+"""Autres formations juridiques, économiques et de gestion""";"""Capitole""";9,00;87,00;1,00;96,00;90,00;76,00;99,00;2560,00;32400,00;24,00;9.3;1810,00;39,00;1410,00;2170,00
+"""Droit""";"""Capitole""";218,00;88,00;26,00;94,00;92,00;83,00;98,00;2000,00;31200,00;24,00;9.3;1810,00;69,00;1410,00;2170,00
+"""Gestion""";"""Capitole""";421,00;85,00;51,00;92,00;90,00;77,00;99,00;2000,00;31200,00;24,00;9.3;1810,00;56,00;1410,00;2170,00
+"""Ensemble sciences, technologies et santé""";"""Capitole""";38,00;54,00;7,00;100,00;100,00;97,00;100,00;2160,00;33700,00;24,00;9.3;1810,00;36,00;1410,00;2170,00
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
