@@ -1,4 +1,4 @@
-Discipline;Nombre de réponses;Taux de réponse;Poids de la discipline;Taux d’insertion;% emplois cadre ou professions intermédiaires;% emplois stables;% emplois à temps plein;Salaire net médian des emplois à temps plein;Salaire brut annuel estimé;% de diplômés boursiers;Taux de chômage régional;Salaire net mensuel médian régional;% femmes;Salaire net mensuel régional 1er quartile;Salaire net mensuel régional 3ème quartile
+group;replyNumber;replyPercent;groupWeight;insertionNumber;percentJobGroup;percentStableJob;percentJobFulltime;medianSalaryFulltime;salaryAnnualEstimate;percentGraduateFellows;unployementRegionalPercent;regionalMedianSalary;womanPercent;monthlySalaryFirstQuartile;monthlySalaryThirdQuartile
 Ensemble sciences humaines et sociales;27;82;3;88;99;99;21;2100;34500;24;9.3;1810;32;1410;2170
 Information communication;27;82;3;98;98;87;87;1900;31000;24;9.3;1810;67;1410;2170
 Informatique;38;54;7;97;100;97;100;2270;35400;24;9.3;1810;36;1410;2170
