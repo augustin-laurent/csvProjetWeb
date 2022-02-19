@@ -1,11 +1,10 @@
-"group";"Universite";"replyPercent";"percentJobFulltime";"medianSalaryFulltime"
-"Autres formations juridiques, economiques et de gestion";"Capitole";87,00;99,00;2560,00
-"Economie";"Capitole";87,00;99,00;2480,00
-"Informatique";"Capitole";54,00;100,00;2270,00
-"Gestion";"Capitole";85,00;"99,00;2160,00
-"Ensemble sciences, technologies et sante";"Capitole";54,00;100,00;2160,00
-"Ensemble formations juridiques, economiques et de gestion";"Capitole";86,00;98,00;2150,00
-"Ensemble sciences humaines et sociales";"Capitole";82,00;21,00;2100,00
-"Droit";"Capitole";88,00;98,00;2000,00
-"Gestion";"Capitole";85,00;99,00;2000,00
-"Information communication";"Capitole";82,00;87,00;1900,00
+﻿group,replyNumber,replyPercent,groupWeight,insertionNumber,percentJobGroup,percentStableJob,percentJobFulltime,medianSalaryFulltime,salaryAnnualEstimate,percentGraduateFellows,unployementRegionalPercent,regionalMedianSalary,womanPercent,monthlySalaryFirstQuartile,monthlySalaryThirdQuartile
+sociale,27,82,3,88,99,99,21,2100,34500,24,9.3,1810,32,1410,2170
+communication,27,82,3,98,98,87,87,1900,31000,24,9.3,1810,67,1410,2170
+info,38,54,7,97,100,97,100,2270,35400,24,9.3,1810,36,1410,2170
+juridique,742,86,89,92,90,86,98,2150,33500,24,9.3,1810,58,1410,2170
+economie,94,87,11,92,96,79,99,2480,38600,24,9.3,1810,48,1410,2170
+gestion,421,85,51,90,89,89,99,2160,33700,24,9.3,1810,56,1410,2170
+droit,218,88,26,94,92,83,98,2000,31200,24,9.3,1810,69,1410,2170
+sante,38,54,7,100,100,97,100,2160,33700,24,9.3,1810,36,1410,2170
+gestion,742,86,89,92,89,73,98,2000,31200,24,9.3,1810,58,1410,2170
